@@ -1,0 +1,118 @@
+{
+    "Landscape": [
+        {
+            "title": "Perrito tranquilo",
+            "description": "Imagen muy bonita",
+            "url": "img/img1.jpg",
+            "coord": {
+                "Latitude": "10",
+                "Longitude": "20"
+            }
+        },
+        {
+            "title": "El bosque Retorcido",
+            "description": "Imagen ilustrativa",
+            "url": "img/img2.jpg",
+            "coord": {
+                "Latitude": "10",
+                "Longitude": "20"
+            }
+        },
+        {
+            "title": "La gran cascada",
+            "description": "Increible caida del agua",
+            "url": "img/img3.jpg",
+            "coord": {
+                "Latitude": "10",
+                "Longitude": "20"
+            }
+        },
+        {
+            "title": "Pajaritos",
+            "description": "Gran colorido",
+            "url": "img/img4.jpg",
+            "coord": {
+                "Latitude": "10",
+                "Longitude": "20"
+            }
+        }
+    ],
+    "Portrait": [
+        {
+            "title": "Constelaciones",
+            "description": "Imagen astronomia brutal",
+            "url": "img/img5.jpg",
+            "coord": {
+                "Latitude": "10",
+                "Longitude": "20"
+            }
+        },
+        {
+            "title": "Nebulosa",
+            "description": "Una bonita nebulosa",
+            "url": "img/img6.jpg",
+            "coord": {
+                "Latitude": "10",
+                "Longitude": "20"
+            }
+        },
+        {
+            "title": "Paris",
+            "description": "La ciudad del Amor",
+            "url": "img/img7.jpg",
+            "coord": {
+                "Latitude": "10",
+                "Longitude": "20"
+            }
+        },
+        {
+            "title": "Italia",
+            "description": "Castell Peralada increible",
+            "url": "img/img8.jpg",
+            "coord": {
+                "Latitude": "10",
+                "Longitude": "20"
+            }
+        }
+    ],
+    "Categories": [
+        {
+            "title": "Naturaleza",
+            "description": "Imagenes sobre la naturaleza"
+        },
+        {
+            "title": "Animales",
+            "description": "Imagenes sobre animales"
+        },
+        {
+            "title": "Espacio",
+            "description": "Imagenes sobre el universo y las estrellas"
+        },
+        {
+            "title": "Ciudades",
+            "description": "Imagenes sobre Ciudades del Mundo"
+        }
+    ],
+    "Author": [
+        {
+            "nickname": "Fiódor Dostoievski",
+            "email": "fiodor@gmail.es",
+            "avatar": "img/Fiódor Dostoievski.jpg"
+        },
+        {
+            "nickname": "Gabriel García Márquez",
+            "email": "gabriel@gmail.es",
+            "avatar": "img/Gabriel García Márquez.jpg"
+        },
+        {
+            "nickname": "Johann Wolfgang",
+            "email": "johann@gmail.es",
+            "avatar": "img/Johann Wolfgang.jpg"
+        },
+        {
+            "nickname": "Jane Austen",
+            "email": "jane@gmail.es",
+            "avatar": "img/Jane Austen.jpg"
+        }
+    ]
+}
